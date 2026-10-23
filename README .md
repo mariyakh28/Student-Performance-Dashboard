@@ -2,10 +2,6 @@
 
 An interactive dashboard for exploring student academic performance, study habits, absences, and demographic information. The dashboard presents key performance indicators and visual analytics in a dark-themed interface.
 
-## Dashboard Preview
-
-![Student Performance Dashboard](Screenshot%202026-10-23%20213440%281%29.png)
-
 ## Overview
 
 The dashboard summarizes student performance through headline metrics and several charts. It is designed to help users explore grade distributions and examine potential relationships between study time, absences, and final grades.
