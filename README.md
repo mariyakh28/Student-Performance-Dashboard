@@ -93,24 +93,3 @@ Based on the figures and visualizations shown in the dashboard, the main finding
 The Student Performance Dashboard provides a visual summary of academic performance, recorded failures, absences, study time, and selected social characteristics. The displayed results indicate that most students have no recorded failures, student grades vary substantially, and higher absence counts tend to coincide with lower final grades.
 
 These findings can help identify topics for further investigation, such as the reasons for student absences and the factors associated with academic performance. However, visualizations alone cannot establish cause and effect. The original dataset should be analyzed and the findings validated before using them to inform educational decisions.
-
-## 7. Data Notes
-
-- The figures in this README are transcribed from the dashboard screenshot.
-- The screenshot does not provide the full data source or the calculation rules for every metric.
-- Verify all values and percentages against the original dataset before using them in formal reports.
-- Protect student privacy and do not publish personal or sensitive information without appropriate authorization.
-
-## 8. Technical Documentation to Add
-
-To complete the technical documentation, consider adding:
-
-1. The data source and names of the columns used.
-2. The programming language or tool used to build the dashboard.
-3. Installation steps and required dependencies.
-4. Instructions for running the project and refreshing the data.
-5. The applicable project and data license.
-
-## License
-
-Add the appropriate license before distributing the project or reusing its code and data.
