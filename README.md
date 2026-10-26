@@ -1,9 +1,5 @@
 # Student Performance Dashboard
 
-![Student Performance Dashboard](dashboard.png)
-
-## 1. Project Overview
-
 This project analyzes student academic performance through an interactive Power BI dashboard featuring key performance indicators (KPIs) and visualizations. The dashboard helps explore potential relationships between students' grades, study time, absences, failure counts, and selected social and demographic characteristics.
 
 Users can filter the results by school and sex to explore the data from different perspectives and identify general patterns in student performance.
@@ -46,12 +42,3 @@ These patterns point to areas worth acting on, such as monitoring students with 
 - **Power BI** (data modeling, DAX measures, visuals)
 - **Power Query** (data cleaning and transformation)
 
-## Files
-
-- `Student_Performance.pbix`: Power BI report file
-- `dashboard.png`: dashboard screenshot
-
-## Author
-
-**Mariya Hammash**
-[LinkedIn](https://www.linkedin.com/in/mariya-hammash/) | [GitHub](https://github.com/mariyakh28)
